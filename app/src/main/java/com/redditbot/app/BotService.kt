@@ -9,7 +9,7 @@ import org.json.JSONObject
 class BotService : Service() {
     private lateinit var wsClient: WebSocketClient
     private val CHANNEL_ID = "BotServiceChannel"
-    private val SERVER_URL = "wss://real-phone-reddit-automation-server-production.up.railway.app"
+    private val SERVER_URL = "wss://real-phone-reddit-automation-server-production.up.railway.app/"
 
     override fun onCreate() {
         super.onCreate()
