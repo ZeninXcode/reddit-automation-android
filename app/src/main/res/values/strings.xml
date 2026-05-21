@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reddit Bot</string>
+    <string name="accessibility_description">Controls Reddit automatically</string>
+</resources>
